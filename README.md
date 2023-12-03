@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/StressDetection/blob/main/deteccaostress.png" >
+  <img src="[https://github.com/letpires/StressDetection/blob/main/deteccaostress.png](https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/ifood-challenge.png)" >
 </p>
 
 <h2 align="center">
