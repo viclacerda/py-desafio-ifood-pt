@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/ifood-challenge.png](https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/ifood-challenge.png)" >
+  <img src="https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/ifood-challenge.png" >
 </p>
 
 <h2 align="center">
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-    <img alt="Numpy" src="https://img.shields.io/badge/numpy-1.20.0-blue">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1.2.3-yellow">
+    <img alt="Numpy" src="https://img.shields.io/badge/numpy-1.23.5-blue">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1.5.3-yellow">
     
 
    </a>
