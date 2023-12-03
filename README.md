@@ -21,7 +21,7 @@
 
 ## Estrutura do repositório
 
-- Veja os dados utilizados [DADOS DO IFOOD](colocar link da planilha);
+- Veja os dados utilizados [DADOS DO IFOOD](https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/mkt_data.csv);
 - Leia o notebook do projeto [DESAFIO IFOOD](colocar link do projeto).
 
 ## Contexto
