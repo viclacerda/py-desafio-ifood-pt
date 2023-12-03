@@ -33,6 +33,11 @@ Esse projeto foi feito como um dos exercícios do curso de Estatística do Bási
 - 📄 Bibliotecas: Pandas, Numpy, Plotly.
 - ⚡️ Google Colaboratory.
 
+
+
+
+
+
 ---
 
 Made with 🩶 by Victoria Lacerda 
