@@ -22,7 +22,7 @@
 ## Estrutura do repositório
 
 - Veja os dados utilizados [DADOS DO IFOOD](https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/mkt_data.csv);
-- Leia o notebook do projeto [DESAFIO IFOOD](colocar link do projeto).
+- Leia o notebook do projeto [DESAFIO IFOOD](https://colab.research.google.com/drive/1TGo60LADPFjrWYZaEd3NZa4FI3A0HpIZ?usp=sharing).
 
 ## Contexto
 
@@ -30,7 +30,7 @@ Esse projeto foi feito como um dos exercícios do curso de Estatística do Bási
 
 ## Tecnologias utilizadas
 
-- 📄 Bibliotecas: Pandas, Numpy, Plotly.
+- 📄 Bibliotecas: Pandas, Numpy, Seaborn e Plotly.
 - ⚡️ Google Colaboratory.
 
 
