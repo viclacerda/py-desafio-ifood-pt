@@ -7,11 +7,14 @@
 </h2>
 
 <p align="center">
-Essa análise está sendo feita para produzir insights que direcionem campanhas personalizadas aos clientes da plataforma digital de delivery.
+<b>Essa análise está sendo feita para produzir insights que direcionem campanhas personalizadas aos clientes da plataforma digital de delivery.</b>
+
 Seguindo a tendência de mercado de implementação de personalização de campanha, essa análise se propõe a mapear as possíveis personas consumidoras do iFood, quais produtos mais consumidos por essas personas e em quais plataformas essas personas mais efetivamente.
 Na mesma linha, será possível definir o que consomem os clientes que menos consomem e, assim, fornecer insights que aumentam o engajamento desses clientes.
+
 O próximo passo desse projeto é produzir um modelo de classificação para novos clientes com perfis similares ao mapeamento feito.
-Acompanhe meu processo de estudos que irá guiar a evolução desse projeto em um modelo de classificação [AQUI](https://github.com/viclacerda/study-path-en)</p>
+
+Acompanhe meu processo de estudos que irá guiar a evolução desse projeto em um modelo de classificação [AQUI](https://github.com/viclacerda/study-path-en). </p>
 
 <p align="center">
     <img alt="Numpy" src="https://img.shields.io/badge/numpy-1.23.5-blue">
